@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/0f6cf109-7f81-4834-a652-a707e731c705
 
 https://github.com/user-attachments/assets/089f3cb1-90ce-40dc-b647-6dd26903cd2f
 
-##. 4. Simple UIs 
+## 4. Simple UIs 
 - Some simple UIs like enemy health text, player HP and SP, main menu and inventory (stil working on it and need improvement here :V)
 
 https://github.com/user-attachments/assets/26dee2d3-1975-490a-b6c0-08b5b9698a0d
