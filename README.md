@@ -1,6 +1,6 @@
 # My First Adventure - 2D Platformer - UE5
+This is my first UE project and my first interaction with event graphs. I chose Maplestory becauses it has always been one of my favourite games since i was a child. Maplestory looks simple but so complicated, specially with animations and combos. So i tried to replica it within a week with no UE knowledge. I hope this can showcase some of my researching, self-learning and adaptablility skills. Thank you.
 ![image](https://github.com/user-attachments/assets/208fbb1a-ad46-45d5-b636-259fa5a315db)
-
 
 ## 1. Movements and Actions:
 - Move around with A and D key, Shift to sprint, Space to jump (can double jump), have jump buffering and coyote. A to attack.
@@ -23,6 +23,7 @@ https://github.com/user-attachments/assets/089f3cb1-90ce-40dc-b647-6dd26903cd2f
 
 ##. 4. Simple UIs 
 - Some simple UIs like enemy health text, player HP and SP, main menu and inventory (stil working on it and need improvement here :V)
-Uploading 4.mp4…
+https://github.com/user-attachments/assets/26dee2d3-1975-490a-b6c0-08b5b9698a0d
+
 
 
