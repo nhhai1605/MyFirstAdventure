@@ -1,5 +1,6 @@
 # My First Adventure - 2D Platformer - UE5
 This is my first UE project and my first interaction with event graphs. I chose Maplestory becauses it has always been one of my favourite games since i was a child. Maplestory looks simple but so complicated, specially with animations and combos. So i tried to replica it within a week with no UE knowledge before. I hope this can showcase some of my researching, self-learning and adaptablility skills. Thank you.
+Windows exe: https://drive.google.com/file/d/1rYqHX9Jp__Yp5LgOV8s7IOsmVxv6vksV/view?usp=sharing
 ![image](https://github.com/user-attachments/assets/208fbb1a-ad46-45d5-b636-259fa5a315db)
 
 ## 1. Movements and Actions:
